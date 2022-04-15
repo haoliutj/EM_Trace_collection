@@ -1,4 +1,4 @@
-# collect EM trace with osilloscope ps3000a (ps3206D)
+# Collect EM trace with osilloscope ps3000a (e.g., ps3206D)
 
 driver of ps3000a has to be installed before running follwoing scripts. how to install driver can be find in following link:
 https://www.picotech.com/downloads/linux
