@@ -1,3 +1,5 @@
 # exclude mac os file
 .DS_Store
 
+# exclude folder
+**/.ipynb_checkpoints
