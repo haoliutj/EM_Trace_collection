@@ -3,5 +3,5 @@
 
 # exclude folder
 **/.ipynb_checkpoints
-**/__pycache_
-**/results_
+**/__pycache__
+**/results
