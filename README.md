@@ -6,7 +6,7 @@ This repos include instruction and sripts for collecting EM trace with different
 How to collect EM trace, please see the details in the corresponding sub-folder.
 
 
-# Instruction for collecting EM trace with CW505 H-Field planar probe
+## Instruction for collecting EM trace with CW505 H-Field planar probe
 
 ```probe_position_exploration_em_trace.ipynb``` is to decide the best postion for probe placed with the real-time visualization of EM trace.
 
