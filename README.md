@@ -28,6 +28,6 @@ In order to use ps3000a to collect data with this script, the driver of ps3000a 
 
 Note that, the device we use is ps3206D, the corresonding driver should locate in the category 'PicoScope 3200 & 3400 A/B/D & MSO devices'.
 
-Currently, we can automatically sample data with this osilloscope, but the tradeoff here is that it's relativelly time-consuming. For example, it takes 6 seconds for one trace (5000 data). The reason it is slow, it's because we need to reset it once a trace is sampled. 
+Currently, we can automatically sample data with this osilloscope, but the tradeoff here is that it's relativelly time-consuming. For example, it takes 6 seconds for one trace (5000 length). The reason it is slow, it's because we need to reset it once a trace is sampled. 
 
 We still working on a faster sampling approach...
