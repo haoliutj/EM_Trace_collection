@@ -8,6 +8,10 @@ How to collect EM trace, please see the details in the corresponding sub-folder.
 
 ## Instruction for collecting EM trace with CW505 H-Field planar probe
 
+Before using H-Field probe to collect EM trace, you should install ChipWhisperer driver. The instruction of how to install it can be find in the following link: https://chipwhisperer.readthedocs.io/en/latest/installing.html#install 
+
+After you install all requirements in the above link, you can use the sripts we provided to collect EM trace. 
+
 ```probe_position_exploration_em_trace.ipynb``` is to decide the best postion for probe placed with the real-time visualization of EM trace. You can find the running steps and instructions inside the notebook.
 
 ### AES Encryption Pattern
