@@ -12,4 +12,4 @@ How to collect EM trace, please see the details in the corresponding sub-folder.
 
 ```em_trace_autoCapture.ipynb``` once the best postion is found, we can automatically collect em trace and save it to npz file
 
-aes_enryption_pattern.png
+![AES Enryption Pattern](aes_enryption_pattern.png)
