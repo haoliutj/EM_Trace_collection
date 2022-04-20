@@ -13,6 +13,8 @@ How to collect EM trace, please see the details in the corresponding sub-folder.
 ### AES Encryption Pattern
 The following figure is the AES encryption pattern, when you see a pattern looks like the pattern in the figure, you should fixed the position of probe. You can start collecting your EM trace of AES encryption.
 
+![](aes_encryption_pattern.png)
+
 ```em_trace_autoCapture.ipynb``` once the best postion is found, we can automatically collect em trace and save it to npz file
 
 
